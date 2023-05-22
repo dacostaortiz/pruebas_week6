@@ -13,17 +13,12 @@
 
 ## Funcionalidades probadas
 
-- Crear cuenta nueva
+Para el trabajo de la semana 7. Dado que estoy trabajando solo, debido a diferencias irreconciliables entre dos de mis compañeros de equipo. Trabajé las siguientes funcionalidades de los escenarios de la versión 3.42.0 de Ghost, con datos generados a través de la herramienta mockaroo y almacenados en archivos csv.
 
-- Inicio de sesión
+- Crear cuentas nuevas
 
-- Crear Post nuevo
+- Crear Posts nuevos
 
-- Editar Post
-
-- Editar información del usuario
-
-- Modal de búsqueda
 
 ## Guía para la ejecución de pruebas con Cypress
 

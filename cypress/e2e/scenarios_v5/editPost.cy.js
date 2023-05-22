@@ -19,7 +19,7 @@ describe("Edit post", () => {
 
   it("should be able to edit a post title", () => {
 
-    cy.get(".gh-list-row.gh-posts-list-item").first().click();
+    cy.visit('http://localhost:2368/ghost/#/posts/');
 
     cy.get("textarea[placeholder='Post title']").clear();
     const updatedTitle = `${CONSTANTS.POST_TITLE} Updated`;

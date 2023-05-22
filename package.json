@@ -17,6 +17,7 @@
     "cypress": "^12.11.0"
   },
   "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
     "kraken-node": "^1.0.24"
   }
 }
